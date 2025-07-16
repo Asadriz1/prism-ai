@@ -1,0 +1,6 @@
+{
+  "name": "Prism AI",
+  "description": "An interactive AI tool that lets you analyze videos, images, and documents. Summarize, create flash cards, search for objects, and more.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
