@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center">
     <a href="#">
-      <img src="favicon.svg" alt="PrismAI Logo" width="80" style="margin-right: 16px; vertical-align: middle;"/>
+<img src="prism.png" alt="PrismAI Logo" width="900" style="margin-right: 16px; vertical-align: middle;" />
     </a>
     PrismAI
   </h1>
